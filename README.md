@@ -1,6 +1,3 @@
-<a href="https://github.com/Ramchann">
-  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Ramchann&mode=weekly" />
-</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ramchann)](https://git.io/streak-stats)
 
