@@ -21,7 +21,7 @@
   [![Rust][RustBadge]][RustHome]
 
   ![OS](https://img.shields.io/badge/OS:-red?style=flat-square)
-  [!AndroidBadge]
+  ![Android][AndroidBadge]
 
 
 </div>
