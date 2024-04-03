@@ -11,6 +11,7 @@
   [![JS][JavaScriptBadge]][JavaScriptHome]
   [![Node][NodejsBadge]][NodejsHome]
   [![CPP][CppBadge]][CppHome]
+  [![SQL][SQLBadge][SQLHome]
 
   ![Frameworks](https://img.shields.io/badge/Frameworks:-red?style=flat-square)
   [![Vuejs][VuejsBadge]][VuejsHome]
