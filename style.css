@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif; /* Bisa diganti Arial atau font lainnya */
     background-color: #f4f4f4;
     display: flex;
     justify-content: center;
@@ -22,18 +22,21 @@ body {
 }
 
 .header {
-    text-align: center;
+    text-align: center; /* Mengatur elemen header agar berada di tengah */
     margin-bottom: 20px;
 }
 
 .header h1 {
     color: #333;
+    font-size: 18px;
+    text-align: center; /* [BA.IDN |||] di tengah */
 }
 
 .header h2 {
-    font-size: 20px;
+    font-size: 18px;
     color: #555;
     margin: 10px 0;
+    text-align: center; /* Surat Keputusan Kenaikan Pangkat di tengah */
 }
 
 .header p {
@@ -62,7 +65,7 @@ table td {
 }
 
 .footer {
-    text-align: left; /* Mengubah teks menjadi rata kiri */
+    text-align: left; /* Mengatur footer agar rata kiri */
     margin-bottom: 20px;
 }
 
@@ -71,7 +74,7 @@ table td {
 }
 
 .footer-id {
-    text-align: center;
+    text-align: center; /* [BA.IDN |||] di bagian bawah tetap di tengah */
     margin-top: 10px;
 }
 
