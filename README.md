@@ -15,7 +15,6 @@
   ![Frameworks](https://img.shields.io/badge/Frameworks:-red?style=flat-square)
   [![Vuejs][VuejsBadge]][VuejsHome]
   [![Vite][ViteBadge]][ViteHome]
-  [![Boost][BoostBadge]][BoostHome]
 
   ![Study](https://img.shields.io/badge/Study:-red?style=flat-square)
   [![Rust][RustBadge]][RustHome]
