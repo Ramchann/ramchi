@@ -1,84 +1,70 @@
-* {
+body {
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-}
-
-body {
-    font-family: 'Roboto', sans-serif; /* Bisa diganti Arial atau font lainnya */
     background-color: #f4f4f4;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
 }
 
-.container {
-    background-color: #fff;
-    padding: 20px;
-    width: 600px;
-    border: 1px solid #ddd;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
 }
 
-.header {
-    text-align: center; /* Mengatur elemen header agar berada di tengah */
-    margin-bottom: 20px;
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
 }
 
-.header h1 {
+nav {
+    margin: 20px 0;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
     color: #333;
-    font-size: 18px;
-    text-align: center; /* [BA.IDN |||] di tengah */
-}
-
-.header h2 {
-    font-size: 18px;
-    color: #555;
-    margin: 10px 0;
-    text-align: center; /* Surat Keputusan Kenaikan Pangkat di tengah */
-}
-
-.header p {
-    font-size: 14px;
-    color: #777;
+    margin: 0 15px;
+    font-size: 1.2em;
 }
 
 .content {
-    margin-bottom: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
-.content p {
-    font-size: 16px;
-    margin-bottom: 10px;
+h2 {
     color: #333;
+    font-size: 2em;
+    margin-top: 0;
 }
 
-table {
+.about, .skills, .projects {
+    margin-bottom: 40px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 10px 0;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
     width: 100%;
-    margin-bottom: 20px;
-}
-
-table td {
-    padding: 5px 0;
-    font-size: 16px;
-}
-
-.footer {
-    text-align: left; /* Mengatur footer agar rata kiri */
-    margin-bottom: 20px;
-}
-
-.footer p {
-    font-size: 16px;
-}
-
-.footer-id {
-    text-align: center; /* [BA.IDN |||] di bagian bawah tetap di tengah */
-    margin-top: 10px;
-}
-
-.footer-id p {
-    font-size: 14px;
-    color: #777;
+    bottom: 0;
 }
