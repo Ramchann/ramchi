@@ -59,6 +59,3 @@
 [BoostHome]: https://www.boost.org/
 [RXJSBadge]: https://img.shields.io/badge/RXJS-B7178C?logo=ReactiveX&style=flat-square&labelColor=000
 [RXJSHome]: https://rxjs.dev/
-
-![github contribution grid snake animation](./dist//github-snake.svg#gh-dark-mode-only)
-![github contribution grid snake animation](./dist/github-snake.svg#gh-light-mode-only)
