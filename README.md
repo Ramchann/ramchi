@@ -7,7 +7,7 @@
 
 ---
 
-[![Ramchann's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ramchann&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Ramchann)
+[![Ramchann's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ramchann&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=tokyonight&show_icons=true)](https://github.com/Ramchann)
 
 ---
 
