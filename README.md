@@ -18,6 +18,7 @@
 
   ![Study](https://img.shields.io/badge/Study:-red?style=flat-square)
   [![Rust][RustBadge]][RustHome]
+  [![Vuejs][VuejsBadge]][VuejsHome]
 
   ![OS](https://img.shields.io/badge/OS:-red?style=flat-square)
   ![Android][AndroidBadge]
