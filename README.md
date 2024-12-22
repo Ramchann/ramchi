@@ -1,6 +1,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ramchann)](https://git.io/streak-stats)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=saifurrahman1193&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
 ---
 
