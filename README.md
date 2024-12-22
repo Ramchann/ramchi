@@ -3,7 +3,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Ramchann&theme=algolia&show_icons=true)](https://github.com/Ramchann)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Ramchann&theme=tokyonight&show_icons=true)](https://github.com/Ramchann)
 
 ---
 
