@@ -1,6 +1,6 @@
 # こんにちは :wave:
 
-<img src="https://raw.githubusercontent.com/Ramchann/Ramchann/main/heyya.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/Ramchann/main/heyya.png" alt="Hello world">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ramchann)](https://git.io/streak-stats)
 
